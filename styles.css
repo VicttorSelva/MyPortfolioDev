@@ -271,7 +271,7 @@ main {
 .about__desc,
 .about__contact {
   margin-top: 2.4em;
-  display: inline-flex;
+  display: flex;
 }
 
 .about .link--icon {
