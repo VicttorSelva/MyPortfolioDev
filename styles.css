@@ -271,11 +271,11 @@ main {
 .about__desc,
 .about__contact {
   margin-top: 2.4em;
-  position: relative;
 }
 
 .about .link--icon {
   margin-right: 0.8em;
+  position: relative;
 }
 
 .about .btn--outline {
